@@ -9,7 +9,7 @@ type: "mypage"
 You can access a .pdf version of my CV [here](https://drive.google.com/open?id=0B5BfsDM3COgqWW93SzZxaEpRdVk).
 
 ### Academic appointments
-2018 -\. _Postdoctoral Research Associate_. Social and Decision Analytics Division, University of Virginia Biocomplexity Institute and Initiative.
+2018 -\. _Postdoctoral Research Associate_. [Social and Decision Analytics Division](https://biocomplexity.virginia.edu), University of Virginia Biocomplexity Institute and Initiative.
 
 2018\. _Postdoctoral Research Associate_. [Social and Decision Analytics Laboratory](https://www.bi.vt.edu/sdal), Biocomplexity Institute of Virginia Tech.
 
@@ -54,13 +54,15 @@ Other
 * Pristavec, Teja. 2013. [_Table for one, please_](https://contexts.org/articles/table-for-one-please). Contexts 12 (4): 6.
 
 ### Training
-^Selected and funded participant
+
+(+ = Selected and funded participant.)
+
 * 2018\. [_Arizona Methods Workshop_](https://sociology.arizona.edu/methods), University of Arizona School of Sociology. Data Science in R workshop.
 * 2017\. [_Digital Humanities Initiative_](http://dh.rutgers.edu/fall-2017-workshops/), Rutgers University. Thematic maps in QGIS; collecting social media data for research; manipulating and analyzing social media data in R workshops.
-* 2016\. [_^ICPSR Summer Program in Quantitative Methods of Social Research_](https://www.icpsr.umich.edu/icpsrweb/content/sumprog/scholarship/winners-2016.html), University of Michigan - Ann Arbor. Longitudinal analysis; structural equation models with latent variables; introduction to the R statistical computing environment; matrix algebra; advanced topics in social research; introduction to the LaTeX text processing system courses.
-* 2016\. _^RAND Summer Institute_, RAND Corporation. Mini-medical school for social scientists; demography, economics, psychology, and epidemiology of aing workshops.
-* 2016\. [_^Fragile Families Data Workshop_](http://fragilefamilies.princeton.edu/people/summer-data-workshop/2016-workshop), Columbia University Population Research Center. Fragile Families and Child Wellbeing Study summer data workshop.
-* 2015\. [_^US Borlaug Summer Institute on Food Security_](https://www.purdue.edu/discoverypark/food/borlaugfellows/summer-institute/Summer-Institute-Participants.php), Purdue University Center for Global Food Security. Global food security workshop.
+* 2016\. [_+ICPSR Summer Program in Quantitative Methods of Social Research_](https://www.icpsr.umich.edu/icpsrweb/content/sumprog/scholarship/winners-2016.html), University of Michigan - Ann Arbor. Longitudinal analysis; structural equation models with latent variables; introduction to the R statistical computing environment; matrix algebra; advanced topics in social research; introduction to the LaTeX text processing system courses.
+* 2016\. _+RAND Summer Institute_, RAND Corporation. Mini-medical school for social scientists; demography, economics, psychology, and epidemiology of aing workshops.
+* 2016\. [_+Fragile Families Data Workshop_](http://fragilefamilies.princeton.edu/people/summer-data-workshop/2016-workshop), Columbia University Population Research Center. Fragile Families and Child Wellbeing Study summer data workshop.
+* 2015\. [_+US Borlaug Summer Institute on Food Security_](https://www.purdue.edu/discoverypark/food/borlaugfellows/summer-institute/Summer-Institute-Participants.php), Purdue University Center for Global Food Security. Global food security workshop.
 
 ### Grant funding
 * 2017-2022\. _U.S. Army Research Institute (ARI)_. The social component of the human dimension: Leveraging existing DoD data towards optimized individual and team performance in the Army, $3,027,401. Principal investigator: Sallie Keller. Role: Postdoctoral researcher.

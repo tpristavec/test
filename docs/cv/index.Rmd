@@ -1,0 +1,134 @@
+---
+title: "Hello R Markdown"
+author: "Frida Gomam"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+# Curriculum vitae
+You can access a .pdf version of my CV [here](https://drive.google.com/open?id=0B5BfsDM3COgqWW93SzZxaEpRdVk).
+
+### Academic appointments
+2018 -\. _Postdoctoral Research Associate_. Social and Decision Analytics Division, University of Virginia Biocomplexity Institute and Initiative.
+
+2018\. _Postdoctoral Research Associate_. [Social and Decision Analytics Laboratory](https://www.bi.vt.edu/sdal), Biocomplexity Institute of Virginia Tech.
+
+### Education
+2014-2018. _Doctor of Philosophy degree in Sociology_. Rutgers, The State University of New Jersey.
+
+* Dissertation: [Three essays on the caregiving experience: Informal caregivers' perception of burden and benefits, the importance of coping resources, and how caregiver experience matters for care recipients](http://sociology.rutgers.edu/graduate/works-in-progress/dissertations-in-progress). Committee: S. Bzostek, D. Carr, L. Nepomnyaschy, E. G. Cohen.
+* GPA: 4.0
+
+2012-2014. _Master of Arts degree in Sociology_. Rutgers, The State University of New Jersey.
+
+* First qualifying paper: [Unintended consequences of nutritional assistance programs: Children's school meal program participation and adults' food security](http://sociology.rutgers.edu/graduate/works-in-progress/qualifying-papers). Committee: N. MacKendrick, S. Bzostek, T. Rudel.
+* Second qualifying paper: [Social participation in old age: The role of driving mobility](http://sociology.rutgers.edu/graduate/works-in-progress/qualifying-papers). Committee: D. Carr, L. Krivo, J. Phillips.
+* GPA: 4.0
+
+2008-2012. _Bachelor of Arts degree in Cultural Studies_. University of Ljubljana, Slovenia.
+
+* Thesis: [Just keep on fighting: Metaphors in cancer narratives](http://www.worldcat.org/title/samkorajzno-v-boj-mataforika-v-narativah-o-raku-diplomsko-delo/oclc/821127617). Mentor: B. Tivadar.
+* GPA: 10/10, top 5% of student generation 2008/09, 2009/10, 2010/11, 2011/12
+
+### Research interests
+Aging, life course, health, family, inequality, quantitative methodology.
+
+### Publications
+Peer-reviewed
+
+* Pristavec, Teja. 2018. [_The burden and benefits of caregiving: A latent class analysis_](https://doi.org/10.1093/geront/gny022). _The Gerontologist_. Advance access. doi:10.1093/geront/gny02
+* Pristavec, Teja. 2017. [_Unintended consequences of nutritional assistance programs: Children’s school meal participation and adults’ food security_](https://www.routledge.com/The-Intersection-of-Food-and-Public-Health-Current-Policy-Challenges-and/Hoflund-Jones-Pautz/p/book/9781498758956). In _The Intersection of Food and Public Health: Current Policy Challenges and Solutions_, Chapter 3, eds. A. Bryce Hoflund, John C. Jones, and Michelle C. Pautz. New York: Routledge.
+* Pristavec, Teja. 2016. [_Social participation in later years: The role of driving mobility_](http://psychsocgerontology.oxfordjournals.org/content/early/2016/05/12/geronb.gbw057.abstract?). _The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_. Advance access. doi:10.1093/geronb/gbw057
+* Pristavec, Teja. 2014. [_Praznični prehranski obredi in skupnost_](http://www.dlib.si/details/URN:NBN:SI:DOC-AG3XUQM7/?query=%27keywords%3dobredi%27&amp;fformattypeserial=article&amp;pageSize=25&amp;frelation=%C4%8Casopis+za+kritiko+znanosti) (Celebratory Food Rituals and Community). _Časopis za kritiko znanosti, domišljijo in novo antropologijo (Journal for the Critique of Science, for Imagination, and New Anthropology)_ 42 (225): 102–12.
+
+Manuscripts under review
+
+* Pristavec, Teja. The caregiving dyad: Do caregivers' appraisals of caregiving matter for recipients' health?. _Under review._
+* Pristavec, Teja & Bzostek, Sharon. Taking off the rose-colored glasses? Comparing mothers’ and children’s reports of resident father involvement. _Revise and resubmit._
+* MacKendrick, Norah & Pristavec, Teja. Between creful and crazy: The emotional labor of feeding the family. _Under review._
+
+Other
+
+* Pristavec, Teja. 2014. [_The marriage diet_](https://contexts.org/articles/the-marriage-diet/). Contexts 13 (2): 7.
+* Pristavec, Teja. 2014. [_The social life of leftovers_](https://contexts.org/articles/the-social-life-of-leftovers/). Contexts 13 (3): 5.
+* Pristavec, Teja. 2013. [_Table for one, please_](https://contexts.org/articles/table-for-one-please). Contexts 12 (4): 6.
+
+### Training
+^Selected and funded participant
+* 2018\. [_Arizona Methods Workshop_](https://sociology.arizona.edu/methods), University of Arizona School of Sociology. Data Science in R workshop.
+* 2017\. [_Digital Humanities Initiative_](http://dh.rutgers.edu/fall-2017-workshops/), Rutgers University. Thematic maps in QGIS; collecting social media data for research; manipulating and analyzing social media data in R workshops.
+* 2016\. [_^ICPSR Summer Program in Quantitative Methods of Social Research_](https://www.icpsr.umich.edu/icpsrweb/content/sumprog/scholarship/winners-2016.html), University of Michigan - Ann Arbor. Longitudinal analysis; structural equation models with latent variables; introduction to the R statistical computing environment; matrix algebra; advanced topics in social research; introduction to the LaTeX text processing system courses.
+* 2016\. _^RAND Summer Institute_, RAND Corporation. Mini-medical school for social scientists; demography, economics, psychology, and epidemiology of aing workshops.
+* 2016\. [_^Fragile Families Data Workshop_](http://fragilefamilies.princeton.edu/people/summer-data-workshop/2016-workshop), Columbia University Population Research Center. Fragile Families and Child Wellbeing Study summer data workshop.
+* 2015\. [_^US Borlaug Summer Institute on Food Security_](https://www.purdue.edu/discoverypark/food/borlaugfellows/summer-institute/Summer-Institute-Participants.php), Purdue University Center for Global Food Security. Global food security workshop.
+
+### Grant funding
+* 2017-2022\. _U.S. Army Research Institute (ARI)_. The social component of the human dimension: Leveraging existing DoD data towards optimized individual and team performance in the Army, $3,027,401. Principal investigator: Sallie Keller. Role: Postdoctoral researcher.
+* 2017-2020\. _Department of Defense (DoD) Minerva_. The dynamics of common knowledge on social networks: An experimental approach, $2,099,632. Principal investigator: Gizem Korkmaz. Role: Postdoctoral researcher.
+* 2016-2021\. _U.S. Department of Agriculture (USDA) and National Science Foundation (NSF)_. Use statistical and survey methodology research to improve or redesign surveys, $2,500,000. Principal investigator: Sallie Keller. Role: Postdoctoral researcher.
+* 2017-2018\. _National Institutes of Health (NIH) National Institute for Drug Abuse (NIDA)_. Interactive technology for media literacy drug prevention in community groups - phase 2, $873,000. Principal investigators: Kathryn Greene and Michael Hecht. Role: Graduate assistant.
+
+### Fellowships
+* 2017-2018\. _Graduate Fellowship_. To assist with NIDA-funded project at the School of Communication and Information, Rutgers University.
+* 2016\. _Clifford C. Clogg Scholarship_. ICPSR, University of Michigan - Ann Arbor.
+* 2012-2014\. _Excellence Fellowship_. Awarded by the Institute for Health, Health Care Policy and Aging Research for doctoral studies in sociology at Rutger University.
+* 2012-2017\. _Zois Fellowship_. Awarded by The Slovene Human Resources and Scholarship Fund for the duration of graduate studies.
+* 2008-2012\. _Zois Fellowship_. Awarded by The Slovene Human Resources and Scholarship Fund for the duration of undergraduate studies.
+
+### Other funding
+* 2018\. _TA/GA Professional Development Fund Award_, Rutgers University, $936.
+* 2017\. _Sociology Department Graduate Student Small Grants Award_, Rutgers University, $700.
+* 2017\. _TA/GA Professional Development Fund Award_, Rutgers University, $925.
+* 2017\. _Graduate School Conference Travel Award_, Rutgers University, $250.
+* 2016\. _TA/GA Professional Development Fund Award_, Rutgers University, $1,387.
+* 2016\. _Graduate School-New Brunswick Special Study Award_, Rutgers University, $2,000.
+* 2016\. _Sociology Department Graduate Student Small Grants Award_, Rutgers University, $500.
+* 2015\. _TA/GA Professional Development Fund Award_, Rutgers University, $1,000.
+* 2014\. _Sociology Department Graduate Student Small Grants Award_, Rutgers University, $350.
+
+### Awards and honors
+* 2017\. _Emerging Scholar_, American Sociological Association Section on Aging and the Life Course. Featured in section [Fall 2017 newsletter](https://asasalc.files.wordpress.com/2014/09/salc_fall_newsletter_2017.pdf). 
+* 2017\. _Louis Bevier Fellowship Alternate_, Rutgers University. Social sciences committee honorable mention.
+* 2016\. _Outstanding Student/Faculty Review Award_, Gerontological Society of America. Awarded by The Gerontologistin recognition of peer review service. 
+* 2015\. [_Best Funding Proposal Award_](http://environmentalgovernance.org/featured/2015/07/michael-denney-wins-prize-during-summer-fellowship/), Center for Global Food Security, Purdue University. Awarded for Building capacity for commune-level agricultural extension in Siem Reap, Cambodia, at the US Borlaug Summer Institute on Global Food Security, sponsored by USAID.
+* 2013\. [_Solemn Plaque for Exceptional Study Achievements_](https://www.uni-lj.si/news/news/2013120909150033/), University of Ljubljana. Awarded for outstanding undergraduate success at University level.
+* 2012\. _Outstanding Achievement Award_, University of Ljubljana Department of Social Sciences. Awarded for outstanding undergraduate success at department level.
+
+### Presentations
+* MacKendrick, Norah & Pristavec, Teja. 2018. _The "crazy organic mother" as 21st century hysteric: Calibrating extreme femininities in family foodwork_. Paper presentation at the American Sociological Association Annual Meeting in Philadelphia, PA.
+* Pristavec, Teja. 2017. _The caregiving dyad: Does caregivers’ appraisal of caregiving matter for care recipient health?_. Paper presentation at the American Sociological Association Annual Meeting in Montreal, QB, August 12. 
+* Pristavec, Teja & Bzostek, Sharon. 2017. _Taking off the rose-colored glasses? Comparing mothers’ and children’s reports about father involvement._ Paper presentation at the Population Association of America Annual Conference in Chicago, IL, April 28.
+* MacKendrick, Norah & Pristavec, Teja. 2016. [_Between careful and crazy: Foodwork as a balancing act_](https://storify.com/emilycontois/feminist-food-studies-asfs-2016). Paper presentation at the joint Annual Meeting and Conference of the Association for the Study of Food and Society; the Agriculture, Food, and Human Values Society; and the Canadian Association for Food Studies in Toronto, ON, June 23.
+* Pristavec, Teja. 2015. _Unintended consequences of nutritional assistance programs: Children’s school meal participation and adults’ food security_. Paper presentation at the Eastern Sociological Society Annual Conference in New York, NY, February 28.
+* Pristavec, Teja. 2015. Auto-mobility care work for older adults. Paper presentation at the Eastern Sociological Society Annual Conference in New York, NY, February 29.
+* Dela Cruz, Aries, Denney, Michael J., Dorsey, Jamie, Nichols, Carly, Poudel, Krishna, Pristavec, Teja, & Spiker, Marie. 2015. _Building capacity for commune-level agricultural extension in Siem Reap, Cambodia_. Presentation for the US Borlaug Summer Institute on Global Food Security sponsored by USAID at the Center for Global Food Security, Purdue University, June 19.
+* Pristavec, Teja. 2014. _Unintended consequences of nutritional assistance programs: Children’s school meal participation and adults’ food security_. Poster presentation at the British Sociological Association Food and Society Conference in London, UK, June 30.
+* Pristavec, Teja. 2013. _What is the association between nutritional knowledge and diet quality in the US elderly?_. Poster presentation at the Robert Wood Johnson Medical School Global Health Fair in Piscataway, NJ, December 3.
+
+### Teaching
+* _Statistical Methods in Sociology I_: graduate course, lab/statistics teaching assistant. Spring 2017.
+* _Statistical Methods in Sociology II_: graduate course, lab/statistics teaching assistant. Fall 2016.
+* _Development of Sociological Theory_: undergraduate course, teaching assistant. Spring 2016.
+* _Contemporary Sociological Theory_: undergraduate course, teaching assistant. Spring 2015, Fall 2015.
+* _Introduction to Social Research_: undergraduate course, teaching assistant. Fall 2014.
+* _Teaching Honor Roll_. Obtained average student rating above 4.5 or for teaching effectiveness and the overall quality of instruction. Spring 2016.
+* _Teaching with Technology Certificate_. Awarded by the Rutgers Teaching Assistant Project for completing Basic Web Design, Basic RefWorks, Excel for Grading, and Managing a Course Website workshops.
+
+### Service
+* _Ad hoc reviewer_. Archives of Gerontology and Geriatrics, Injury Epidemology, Journal of Family Issues, The Gerontologist, The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences, Social Science Research.
+* _Multi-Generational Mentoring (MGM) Program_. NSF Advancing Graduate Education at Rutgers initiative. Assistant director, writing clinic coordinator, mentor. Fall 2013 through Spring 2018.
+* _Graduate assistant_ to Deborah Carr. Organizing Rutgers’ [Public Engagement Project](http://rupep.weebly.com). Fall 2015, Spring 2016, Fall 2016.
+* _Graduate assistant and co-organizer_ with Norah MacKendrick. Organizing Rutgers’ [Environmental Justice and the Future of Environmental Health Research Symposium](http://envjus.weebly.com). Fall 2016, Spring 2017.
+* _Graduate assistant_ to Robin Leichenko. Organizing Rutgers’ [Climate Hazards Symposium](http://hazardscontext.weebly.com). Fall 2015, Spring 2016.
+* _Graduate assistant_ to Steven Brechin. Organizing Rutgers’ 100 Days Symposium: [Global Climate Change and Inequality](http://climateinequality.weebly.com). Fall 2014, Spring 2015. 
+* _Rutgers Graduate Union of Sociology Students_ (GUSS). Graduate faculty hiring committee representative, graduate program committee representative, secretary. Fall 2014, Spring 2015, Fall 2016, Spring 2017.
+
+### Public sociology
+* _Invited talks_. [Slovene Knowledge Around the World - New York City](http://www.washington.embassy.si/index.php//index.php?id=4722&L=1&tx_ttnews%5Btt_news%5D=28701&cHash=956eb736b728bf692ee1b077e7e6b86c), [Slovene Knowledge Around the World - Washington, DC](http://www.washington.embassy.si/index.php?id=814&L=gedzxzuv&tx_ttnews%5Btt_news%5D=33153&cHash=85cb7ec863ae9f30728031f288fde9f5).
+* _Media coverage_. My research was covered by [Reuters](http://www.reuters.com/article/us-health-seniors-driving-idUSKCN0YM2E3), [Mather LifeWays Institute on Aging](https://www.matherlifewaysinstituteonaging.com/2018/05/16/identifying-5-types-of-informal-caregivers-by-unique-burdens-benefits), [Senior Health Specialists](http://www.shspecialists.com/driving-mobility-affects-seniors-2/), and [Gregorek & Associates](http://rjglegal.com/newsletter-preview.php?dont_log_referrer=1&id=303).
+* _Blog posts_. Blog posts published at [Everyday Sociology Blog](http://www.everydaysociologyblog.com/2014/04/the-state-of-the-dinner.html), [Sociological Images](https://thesocietypages.org/socimages/2014/05/14/no-such-thing-as-a-free-lunch-part-i/), [Jezebel](http://jezebel.com/one-hundred-years-of-the-fridge-1601652768), and [The Pacific Standard](https://psmag.com/the-state-of-the-dinner-commensality-as-a-political-instrument-cda89298faa8#.cpwabb7i1). Original posts collected at [A Serving of Sociology](http://aservingofsociology.wordpress.com).
+
+### Skills
+* Language: Slovenian (native), English (fluent), French (functional), Spanish (functional).
+* Other: R, Stata, Mplus, Git/GitHub, Bash, LaTeX, Qualtrics, Joomla.

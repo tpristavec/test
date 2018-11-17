@@ -1,0 +1,17 @@
+theme = "purehugo"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Teja Pristavec"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "CV"
+    url = "/cv/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/tpristavec"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/tpristavec"

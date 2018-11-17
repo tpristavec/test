@@ -1,5 +1,0 @@
-theme = "hugo-book"
-baseURL = "https://tpristavec.github.io/test/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-publishDir = "docs"

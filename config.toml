@@ -3,16 +3,37 @@ baseURL = "http://tpristavec.github.io/test"
 languageCode = "en-us"
 title = "Teja Pristavec"
 publishDir = "docs"
+Paginate = 10
+disqusShortname = ""
 
-[[menu.main]]
+[params]
+  description = "Postdoctoral Research Associate @ UVA BII SDAD"
+  twitterName = "tpristavec"
+  githubName = "tpristavec"
+  linkedinName = "tejapristavec"
+  google_analytics = ""
+  
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
     name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 3
+    identifier = "about"
     url = "/about/"
-[[menu.main]]
-    name = "CV"
-    url = "/cv/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/tpristavec"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/tpristavec"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 4
+    url = "/contact/"

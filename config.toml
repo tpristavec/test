@@ -1,7 +1,8 @@
 theme = "purehugo"
-baseURL = "http://example.org/"
+baseURL = "http://tpristavec.github.io/test"
 languageCode = "en-us"
 title = "Teja Pristavec"
+publishDir = "docs"
 
 [[menu.main]]
     name = "About"

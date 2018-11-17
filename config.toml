@@ -36,8 +36,3 @@ disqusShortname = ""
     name = "Contact"
     weight = 5
     url = "/contact/"
-    
-[social]
-  linkedin = "tejapristavec"
-  twitter = "tpristavec"
-  github = "tpristavec"

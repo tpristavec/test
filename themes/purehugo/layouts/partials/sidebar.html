@@ -13,6 +13,22 @@
       </ul>
       </nav>
       
+<nav class="social-icons icons">
+<a class="fa fa-rss-square" href="/index.xml"></a>
+
+{{ if .Site.Params.linkedinName }}
+  <a class="fa fa-linkedin-square" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}"></a>
+{{ end }}
+
+{{ if .Site.Params.githubName }}
+  <a class="fa fa-github-square" href="https://github.com/{{ .Site.Params.githubName }}"></a>
+{{ end }}
+
+{{ if .Site.Params.twitterName }}
+  <a class="fa fa-twitter-square" href="https://twitter.com/{{ .Site.Params.twitterName }}"></a>
+{{ end }}
+</nav>
+      
         <nav class="nav">
             <ul class="nav-list">
                 {{ if .Site.Params.twitterName }}

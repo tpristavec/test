@@ -1,0 +1,14 @@
+---
+title: "About"
+author: "Teja Pristavec"
+draft: false
+type: "mypage"
+---
+
+# Hi!
+
+I'm a sociologist and a postdoctoral research associate in the Social and Decision Analytics Division of the Biocomplexity Institute and Initiative at the University of Virginia (phew! UVA BII SDAD for short). My doctoral research focused on statistical methods and the sociology of health, families, and the life course. At SDAD, I collaborate with an interdisciplinary research group using quantitative methods on multiple data sources to develop evidence-based research and inform effective decision-making in government and industry. 
+
+I enjoy experimenting in R, sprouting and watching plants grow, [flying](https://my.flightradar24.com/tejapristavec), all sorts of physical activity, and good green tea. 
+
+

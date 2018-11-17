@@ -23,6 +23,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
+      <title>About</title>
+      <link>/test/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/test/about/</guid>
+      <description>Hi! I’m a sociologist and a postdoctoral research associate in the Social and Decision Analytics Division of the Biocomplexity Institute and Initiative at the University of Virginia (phew! UVA BII SDAD for short). My doctoral research focused on statistical methods and the sociology of health, families, and the life course. At SDAD, I collaborate with an interdisciplinary research group using quantitative methods on multiple data sources to develop evidence-based research and inform effective decision-making in government and industry.</description>
+    </item>
+    
+    <item>
       <title>CV</title>
       <link>/test/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

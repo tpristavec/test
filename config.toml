@@ -16,24 +16,29 @@ disqusShortname = ""
 [menu]
   [[menu.main]]
     name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
     url = "/"
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 2
-    identifier = "post"
-    url = "/post/"
-  [[menu.main]]
+[[menu.main]]
     name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 3
+    weight = 2
     identifier = "about"
     url = "/about/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
+[[menu.main]]
+    name = "CV"
+    weight = 3
+    url = "/cv/"
+[[menu.main]]
+    name = "Posts"
     weight = 4
+    identifier = "post"
+    url = "/post/"
+[[menu.main]]
+    name = "Contact"
+    weight = 5
     url = "/contact/"
+    
+[social]
+  linkedin = "tejapristavec"
+  twitter = "tpristavec"
+  github = "tpristavec"

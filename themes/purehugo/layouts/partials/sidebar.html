@@ -4,22 +4,32 @@
             <h1 class="brand-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
             <h2 class="brand-tagline">{{ with .Site.Params.description }} {{.}} {{end}}</h2>
         </hgroup>
-
+        
+        <nav class="nav">
+        <ul class="sidebar-nav">
+        {{ range .Site.Menus.main -}}
+          <a href="{{.URL}}"> {{ .Name }} </a><p></p>
+        {{- end }}
+      </ul>
+      </nav>
+      
         <nav class="nav">
             <ul class="nav-list">
                 {{ if .Site.Params.twitterName }}
                 <li class="nav-item">
                     <a class="pure-button" href="https://twitter.com/{{ .Site.Params.twitterName }}">
-                        <i class="fa fa-twitter"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
+                        <i class="fa fa-twitter-square"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
                     </a>
                 </li>
+                <p></p>
                 {{ end }}
                 {{ if .Site.Params.githubName }}
                 <li class="nav-item">
                     <a class="pure-button" href="https://github.com/{{ .Site.Params.githubName }}">
-                        <i class="fa fa-github-alt"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
+                        <i class="fa fa-github-square"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
                     </a>
                 </li>
+                <p></p>
                 {{ end }}
                 {{ if .Site.Params.stackOverflowId }}
                 <li class="nav-item">
@@ -27,13 +37,15 @@
                         <i class="fa fa-stack-overflow"></i>{{ if not .Site.Params.hideSidebarIconText }}Stack Overflow{{ end }}
                     </a>
                 </li>
+                <p></p>
                 {{ end }}
                 {{ if .Site.Params.linkedinName }}
                 <li class="nav-item">
                     <a class="pure-button" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}">
-                        <i class="fa fa-linkedin"></i>{{ if not .Site.Params.hideSidebarIconText }} LinkedIn{{ end }}
+                        <i class="fa fa-linkedin-square"></i>{{ if not .Site.Params.hideSidebarIconText }} LinkedIn{{ end }}
                     </a>
                 </li>
+                <p></p>
                 {{ end }}
                 <li class="nav-item">
                     <a class="pure-button" href='{{ "index.xml" | absURL }}'>

@@ -1,0 +1,12 @@
+---
+title: "About"
+author: "Teja Pristavec"
+draft: false
+type: "mypage"
+---
+
+# Hi!
+
+This is a test.
+
+

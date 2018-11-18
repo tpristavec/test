@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teja Pristavec</title>
+    <title>About on Teja Pristavec</title>
     <link>/test/</link>
-    <description>Recent content on Teja Pristavec</description>
+    <description>Recent content in About on Teja Pristavec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
@@ -28,7 +28,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/test/about/</guid>
-      <description>Hi! I’m a sociologist and a postdoctoral research associate in the Social and Decision Analytics Division of the Biocomplexity Institute and Initiative at the University of Virginia (phew! UVA BII SDAD for short). My doctoral research focused on statistical methods and the sociology of health, families, and the life course. At SDAD, I collaborate with an interdisciplinary research group using quantitative methods on multiple data sources to develop evidence-based research and inform effective decision-making in government and industry.</description>
+      <description>Hi! I’m a sociologist and a postdoctoral research associate in the Social and Decision Analytics Division of the Biocomplexity Institute and Initiative at the University of Virginia (phew – UVA BII SDAD for short). My doctoral research focused on statistical methods and the sociology of health, families, and the life course. At SDAD, I collaborate with an interdisciplinary research group using quantitative methods on multiple data sources to develop evidence-based research and inform effective decision-making in government and industry.</description>
     </item>
     
     <item>

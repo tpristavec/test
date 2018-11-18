@@ -7,11 +7,15 @@ type: "mypage"
 
 # Contact
 
-![](https://services.nexodyne.com/email/customicon/AF8n2gB6hajeZxJi1VzTPxL0/NPI4vAE%3D/000000/ffffff/ffffff/0/image.png)
+<nav class="social-icons icons">
+<a class="fa fa-linkedin-square fa-2x" href="https://www.linkedin.com/in/tejapristavec"></a>
+<a class="fa fa-github-square fa-2x" href="https://github.com/tpristavec"></a>
+<a class="fa fa-rss-square fa-2x" href="/index.xml"></a>
+<a class="fa fa-twitter-square fa-2x" href="https://twitter.com/tpristavec"></a>
+</nav>
 
-![](https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png) [tejapristavec](http://www.linkedin.com/in/tejapristavec)
+![](https://orcid.org/sites/default/files/images/orcid_32x32.png) [0000-0003-2021-4682](https://orcid.org/0000-0003-2021-4682)
 
-![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [0000-0003-2021-4682](https://orcid.org/0000-0003-2021-4682)
-
+![](https://services.nexodyne.com/email/customicon/egYqjE96lVd.rGYIK0D6GEl.ydOGTrg%3D/YfXN6mM%3D/000000/ffffff/ffffff/5/image.png)
 
         

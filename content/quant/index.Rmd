@@ -1,0 +1,25 @@
+---
+title: "Quant"
+author: "Teja Pristavec"
+draft: false
+type: "mypage"
+---
+
+# Quantitative 
+I look for answers to social science questions using advanced quantitative methods. I have a strong interest in quantitative analysis and am eager to develop competency in new techniques, programming languages, and to further my knowledge of workflow, collaboration, and reproducible research tools.
+
+## Training
+I am proficient in **R, Stata, Mplus, Git, bash**, and **LaTeX**. 
+
+During my graduate training, I used primarily **large, nationally representative datasets** in my research work. I am thoroughly familiar with National Health and Nutrition Examination Survey [(NHANES)](http://www.cdc.gov/nchs/nhanes.htm), National Health and Aging Trends Study [(NHATS)](https://www.nhats.org) data, National Study of Caregiving [(NSOC)](http://www.nhats.org/scripts/participant/nsocoverview.htm) data, and Fragile Families and Child Wellbeing Study [(FFCWS)](http://www.fragilefamilies.princeton.edu) data. As a research assistant, I also participated in **collecting data and creating datasets** for community-based research. At SDAD, I work with all kinds of data--from **text corpora** to **web-scraped content** and **shapefiles**.
+
+I’ve taken courses in Sociological Research Methods (501), Statistical Methods in Sociology I (541), and Statistical Methods in Sociology II (542) at the Sociology Department at Rutgers’ New Brunswick campus. I then completed additional courses in statistics at the Rutgers Newark School of Criminal Justice, including Intermediate Statistics (543) and Advanced Statistics (641). These courses gave me a solid foundation in multiple **regression**, covering topics from ordinary least squares models and model diagnostics to models for cross-sectional outcomes that do not conform to a normal distribution (binary, ordered, multinomial, event count, and censored outcomes), maximum likelihood estimation, and models for data with nested or multilevel structure. Besides having in-depth knowledge of statistical analyses in a traditional regression setting, I also have extensive experience in conducting **latent class analysis**.
+
+I've also completed **additional methods training** beyond my University. 
+
+In 2016, I participated in the [ICPSR Summer Program in Quantitative Methods of Social Research](http://www.icpsr.umich.edu/icpsrweb/sumprog/index.jsp) as a [Clifford C. Clogg Scholar](http://www.icpsr.umich.edu/icpsrweb/content/sumprog/scholarship/winners-2016.html). I took month-long courses in [Longitudinal Analysis](http://www.icpsr.umich.edu/icpsrweb/sumprog/courses/0025) and [Structural Equation Models with Latent Variables](http://www.icpsr.umich.edu/icpsrweb/sumprog/courses/0015), attended the four-week [Blalock Lectures](https://www.icpsr.umich.edu/icpsrweb/content/sumprog/2016/schedule.html) in Advanced Topics in Social Research, two-week [Introduction to the R Statistical Computing Environment](http://www.icpsr.umich.edu/icpsrweb/sumprog/courses/0033) and [Review Lectures on Matrix Algebra](http://www.icpsr.umich.edu/icpsrweb/sumprog/courses/0057), and the one-time [Introduction to the LaTeX Text Processing System](https://www.icpsr.umich.edu/icpsrweb/sumprog/courses/0139) seminar. In addition to formal training, I am always furthering my knowledge in new techniques, programming languages, and workflow tools through self-paced online courses.
+
+In 2017/18, I participated in [Rutgers Digital Humanities Initiative](http://dh.rutgers.edu/fall-2017-workshops/) workshops on Thematic Maps in QGIS, Collecting Social Media Data for Research, and Manipulating and Analyzing Social Media Data in R. I extended my social media analytics and data science knowledge at the [8th Annual Arizona Methods Workshop](https://sociology.arizona.edu/methods), where I completed the Data Science in R course (focusing on machine learning and social media data) and received an introduction to sequence analysis. In additon, I am currently completing the [Machine Learning A-Z: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/) Udemy online course.
+
+## Teaching
+In 2016/17, I gave **invited lectures** on Introduction to Stata and Categorical Independent Variables for Rutgers Sociology Department’s graduate course Statistical Methods in Sociology I and II. I gave a lecture on Cross-Tabulations using the General Social Survey Website for the graduate course Social Research Methods. I also led an Introduction to R workshop for the department's Quantitative Applications Workshop. As a **graduate lab and statistics teaching assistant**, I advised early-stage graduate students on research projects, and held statistical consultation hours open all faculty, graduate, and undergraduate members of my department. 

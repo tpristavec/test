@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Teja Pristavec</title>
+    <title>Homepage on Teja Pristavec</title>
     <link>/test/</link>
-    <description>Recent content in About on Teja Pristavec</description>
+    <description>Recent content in Homepage on Teja Pristavec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
@@ -53,6 +53,35 @@ Academic appointments 2018 -. Postdoctoral Research Associate. Social and Decisi
       <description> Contact  tejapristavec
 0000-0003-2021-4682
  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/test/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/test/projects/</guid>
+      <description>Dissertation My dissertation, titled Three Essays on the Caregiving Experience: Informal Caregivers’ Perception of Burden and Benefits, the Importance of Coping Resources, and How Caregiver Experience Matters for Care Recipients, addressed three gaps in our current knowledge on the benefits and burden of informal caregiving to US older adults. It examined what constitutes the informal caregiving experience, how coping resources modify the experience, and how caregivers’ experiences matter for care recipient outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Quant</title>
+      <link>/test/quant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/test/quant/</guid>
+      <description>Quantitative I look for answers to social science questions using advanced quantitative methods. I have a strong interest in quantitative analysis and am eager to develop competency in new techniques, programming languages, and to further my knowledge of workflow, collaboration, and reproducible research tools.
+Training I am proficient in R, Stata, Mplus, Git, bash, and LaTeX.
+During my graduate training, I used primarily large, nationally representative datasets in my research work.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/test/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/test/teaching/</guid>
+      <description>Teaching Methods  Statistical Methods in Sociology I: graduate course, lab and statistics teaching assistant. Spring 2017. Statistical Methods in Sociology II: graduate course, lab and statistics teaching assistant. Fall 2016. Introduction to Social Research: undergraduate course, teaching assistant, two sections. Fall 2014.   “Teja was an excellent TA , that made a difficult course relatively manageable. You could tell she cared about if we understood material, and she put a lot on effort into preparing for recitation.</description>
     </item>
     
   </channel>

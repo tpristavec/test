@@ -13,7 +13,7 @@ disqusShortname = ""
   google_analytics = ""
   
 [menu]
-  [[menu.main]]
+[[menu.main]]
     name = "Home"
     weight = 1
     identifier = "home"
@@ -33,6 +33,20 @@ disqusShortname = ""
     identifier = "post"
     url = "/post/"
 [[menu.main]]
-    name = "Contact"
+    name = "Projects"
     weight = 5
+    url = "/projects/"
+[[menu.main]]
+    name = "Quant"
+    weight = 6
+    identifier = "quant"
+    url = "/quant/" 
+[[menu.main]]
+    name = "Teaching"
+    weight = 7
+    identifier = "teaching"
+    url = "/teaching/" 
+[[menu.main]]
+    name = "Contact"
+    weight = 8
     url = "/contact/"

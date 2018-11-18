@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>/test/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/test/about/</loc>
   </url>
   
@@ -30,6 +25,11 @@
   </url>
   
   <url>
+    <loc>/test/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/test/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -39,6 +39,14 @@
     <loc>/test/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/test/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/test/quant/</loc>
   </url>
   
   <url>
@@ -63,6 +71,10 @@
     <loc>/test/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/test/teaching/</loc>
   </url>
   
 </urlset>

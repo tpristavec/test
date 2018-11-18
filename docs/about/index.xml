@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Teja Pristavec</title>
+    <link>/test/about/</link>
+    <description>Recent content in Abouts on Teja Pristavec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/test/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching</title>
+      <link>/test/about/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/test/about/teaching/</guid>
+      <description>Teaching Methods  Statistical Methods in Sociology I: graduate course, lab and statistics teaching assistant. Spring 2017. Statistical Methods in Sociology II: graduate course, lab and statistics teaching assistant. Fall 2016. Introduction to Social Research: undergraduate course, teaching assistant, two sections. Fall 2014.   “Teja was an excellent TA , that made a difficult course relatively manageable. You could tell she cared about if we understood material, and she put a lot on effort into preparing for recitation.</description>
+    </item>
+    
+  </channel>
+</rss>

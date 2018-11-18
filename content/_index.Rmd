@@ -5,8 +5,6 @@ draft: false
 type: "mypage"
 ---
 
-# Hi!
+# I'm renovating!
 
-This is a test.
-
-
+Bear with me.

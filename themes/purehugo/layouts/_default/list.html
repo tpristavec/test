@@ -8,18 +8,15 @@
             <!-- A wrapper for all the blog posts -->
             <div class="posts">
                 {{ range .Paginator.Pages }}
-                <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
+                <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006" }}</h1>
                 <section class="post">
                     <header class="post-header">
 
                         <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
 
                         <p class="post-meta">
-                            {{ with .Params.author }}
-                                By <strong class="post-author">{{ . }}</strong>
-                            {{ end }}
                             {{ if isset .Params "categories" }}
-                                under 
+                                Categories: 
                                 {{ range .Params.categories }}
                                     <a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absURL }}'>{{ . }}</a>
                                 {{ end }}

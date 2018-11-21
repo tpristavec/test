@@ -19,5 +19,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Test</title>
+      <link>/test/categories/test/</link>
+      <pubDate>Wed, 21 Nov 2018 10:52:00 -0500</pubDate>
+      
+      <guid>/test/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>/test/categories/test1/</link>
+      <pubDate>Wed, 21 Nov 2018 10:52:00 -0500</pubDate>
+      
+      <guid>/test/categories/test1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

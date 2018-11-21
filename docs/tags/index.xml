@@ -38,5 +38,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Tag1</title>
+      <link>/test/tags/tag1/</link>
+      <pubDate>Wed, 21 Nov 2018 10:52:00 -0500</pubDate>
+      
+      <guid>/test/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>/test/tags/tag2/</link>
+      <pubDate>Wed, 21 Nov 2018 10:52:00 -0500</pubDate>
+      
+      <guid>/test/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

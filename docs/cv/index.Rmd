@@ -5,8 +5,7 @@ draft: false
 type: "mypage"
 ---
 
-# Curriculum vitae
-You can access a .pdf version of my CV [here](https://drive.google.com/open?id=0B5BfsDM3COgqWW93SzZxaEpRdVk).
+# Curriculum vitae ([pdf](https://drive.google.com/open?id=0B5BfsDM3COgqWW93SzZxaEpRdVk))
 
 ### Academic appointments
 2018 -\. _Postdoctoral Research Associate_. [Social and Decision Analytics Division](https://biocomplexity.virginia.edu), University of Virginia Biocomplexity Institute and Initiative.

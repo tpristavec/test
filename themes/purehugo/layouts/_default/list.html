@@ -9,7 +9,7 @@
             <div class="posts">
                 {{ range .Paginator.Pages }}
                 <section class="post">
-                        <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>  {{ .Date.Format "January 2, 2006" }}
+                   <a href="{{ .Permalink }}" class="post-title-list">{{ .Title }}</a>  <span class = "post-title-date">{{ .Date.Format "January 2, 2006" }}</span>
                 </section>
                 {{ end }}
             </div>
